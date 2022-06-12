@@ -1,0 +1,21 @@
+{
+  "name": "coding-interview-algorithms-and-data-structure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/somekindofwallflower/coding-interview-algorithms-and-data-structure.git"
+  },
+  "author": "somekindofwallflower",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/somekindofwallflower/coding-interview-algorithms-and-data-structure/issues"
+  },
+  "homepage": "https://github.com/somekindofwallflower/coding-interview-algorithms-and-data-structure#readme",
+  "dependencies": {
+  }
+}
