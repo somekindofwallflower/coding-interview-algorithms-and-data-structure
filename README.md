@@ -5,3 +5,4 @@
 - [Problem 2: Palindromes](https://github.com/somekindofwallflower/coding-interview-algorithms-and-data-structure/tree/master/02_palindrome)
 - [Problem 3: Integer Reversal](https://github.com/somekindofwallflower/coding-interview-algorithms-and-data-structure/tree/master/03_integer_reverse)
 - [Problem 4: Max Char](https://github.com/somekindofwallflower/coding-interview-algorithms-and-data-structure/tree/master/04_max_chars)
+- [Problem 5: FizzBuzz](https://github.com/somekindofwallflower/coding-interview-algorithms-and-data-structure/tree/master/05_fizzbuzz)
