@@ -21,13 +21,15 @@
 // For each character of the string if the character on the left is space capitalize and add to the result else add it to the result
 function capitalize(str) {
     let result = str[0].toUpperCase();
-    for(let i = 1; i <= str.length; i++) {
-        if(str[i - 1] === ' ') {
+
+    for (let i = 1; i < str.length; i++) {
+        if (str[i - 1] === ' ') {
             result += str[i].toUpperCase();
         } else {
-            result += str[i]
+            result += str[i];
         }
     }
+
     return result;
 }
 
