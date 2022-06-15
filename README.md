@@ -10,3 +10,4 @@
 - [Problem 7: Anagrams](https://github.com/somekindofwallflower/coding-interview-algorithms-and-data-structure/tree/master/07_anagrams)
 - [Problem 8: Capitalize](https://github.com/somekindofwallflower/coding-interview-algorithms-and-data-structure/tree/master/08_capitalize)
 - [Problem 9: Steps](https://github.com/somekindofwallflower/coding-interview-algorithms-and-data-structure/tree/master/09_steps)
+- [Problem 10: Tow sides pyramid](https://github.com/somekindofwallflower/coding-interview-algorithms-and-data-structure/tree/master/10_pyramid)
