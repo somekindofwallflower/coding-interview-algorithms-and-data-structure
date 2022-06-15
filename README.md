@@ -9,3 +9,4 @@
 - [Problem 6: Array Chunking](https://github.com/somekindofwallflower/coding-interview-algorithms-and-data-structure/tree/master/06_array_chunking)
 - [Problem 7: Anagrams](https://github.com/somekindofwallflower/coding-interview-algorithms-and-data-structure/tree/master/07_anagrams)
 - [Problem 8: Capitalize](https://github.com/somekindofwallflower/coding-interview-algorithms-and-data-structure/tree/master/08_capitalize)
+- [Problem 9: Steps](https://github.com/somekindofwallflower/coding-interview-algorithms-and-data-structure/tree/master/09_steps)
